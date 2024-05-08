@@ -12,9 +12,9 @@ Screenshots:
 ![image](https://github.com/jeremyt2003/jeremyt2003/assets/163692010/1afc22d3-e2d4-45b3-b277-2fc2941d794e)
 ![image](https://github.com/jeremyt2003/jeremyt2003/assets/163692010/fd747c8c-4859-42a5-b626-1059ab3fde7e)
 ![image](https://github.com/jeremyt2003/jeremyt2003/assets/163692010/85703ca2-9592-46b5-b6c6-2c5b6e83df57)
-![image](https://github.com/jeremyt2003/jeremyt2003/assets/163692010/3d4cab7a-d9bf-4049-9706-5d9cde2700df)
+![image](https://github.com/jeremyt2003/jeremyt2003/assets/163692010/1117282d-828c-4270-830b-17baf4be73e7)
+![image](https://github.com/jeremyt2003/jeremyt2003/assets/163692010/66fca9b6-87ae-40ec-aa7b-b55974487cd7)
 
-![Uploading image.png…]()
 
 
   
