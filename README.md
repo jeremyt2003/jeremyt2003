@@ -5,8 +5,8 @@
   -Email: jeremy.tomaro@gmail.com
 
 
-Currently, I'm working on a game recommendation site with a friend which uses Steam API to retrieve user's Steam profile
-and uses IGDB integration using PHP Wrapper to search for games users may be interested in.
+Currently, I'm working on a game recommendation site with a friend that uses Steam API to retrieve a user's Steam profile
+and uses IGDB integration using PHP Wrapper to search for games users may be interested in. Developed mostly using PHP , CSS , and a bit of Javascript.
 
 Screenshots: 
 ![image](https://github.com/jeremyt2003/jeremyt2003/assets/163692010/1afc22d3-e2d4-45b3-b277-2fc2941d794e)
