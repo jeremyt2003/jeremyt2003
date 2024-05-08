@@ -9,6 +9,7 @@ Currently, I'm working on a game recommendation site with a friend which uses St
 and uses IGDB integration using PHP Wrapper to search for games users may be interested in.
 
 
+![image](https://github.com/jeremyt2003/jeremyt2003/assets/163692010/1afc22d3-e2d4-45b3-b277-2fc2941d794e)
 
 
   
